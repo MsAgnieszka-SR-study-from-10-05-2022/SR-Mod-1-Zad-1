@@ -1,0 +1,16 @@
+{
+  "name": "zadanie_1_bez_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "show_answer": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aga",
+  "license": "ISC",
+  "dependencies": {
+    "leap-year": "^4.0.0"
+  }
+}
